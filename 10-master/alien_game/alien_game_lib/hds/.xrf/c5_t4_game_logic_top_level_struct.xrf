@@ -1,0 +1,545 @@
+DESIGN c5_t4_game_logic_top_level
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN c5_t4_game_logic_top_level
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW symbol.sb
+GRAPHIC 138,0 14 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW symbol.sb
+GRAPHIC 133,0 15 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW symbol.sb
+GRAPHIC 128,0 16 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW symbol.sb
+GRAPHIC 148,0 17 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW symbol.sb
+GRAPHIC 143,0 18 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW symbol.sb
+GRAPHIC 173,0 19 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW symbol.sb
+GRAPHIC 158,0 20 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW symbol.sb
+GRAPHIC 153,0 21 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW symbol.sb
+GRAPHIC 163,0 22 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW symbol.sb
+GRAPHIC 168,0 23 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW symbol.sb
+GRAPHIC 1,0 26 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW symbol.sb
+GRAPHIC 1,0 27 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+NO_GRAPHIC 30
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 201,0 39 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+NO_GRAPHIC 42
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 0,0 45 2 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 850,0 50 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 958,0 51 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 946,0 52 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 952,0 53 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 862,0 54 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 509,0 55 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1092,0 56 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 856,0 57 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 970,0 58 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1010,0 59 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 788,0 60 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1084,0 61 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 515,0 62 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1018,0 63 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 814,0 64 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 820,0 65 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 826,0 66 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1307,0 67 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 832,0 68 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 838,0 69 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 844,0 70 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+NO_GRAPHIC 71
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+NO_GRAPHIC 72
+LIBRARY alien_game_lib
+DESIGN c2_t7_basic_alien_top
+VIEW struct
+GRAPHIC 1062,0 74 0 
+DESIGN c2_t7_basic_alien_top
+VIEW symbol.sb
+GRAPHIC 132,0 76 0 
+DESIGN c2_t7_basic_alien_top
+VIEW symbol.sb
+GRAPHIC 647,0 77 0 
+DESIGN c2_t7_basic_alien_top
+VIEW symbol.sb
+GRAPHIC 642,0 78 0 
+DESIGN c2_t7_basic_alien_top
+VIEW symbol.sb
+GRAPHIC 127,0 79 0 
+DESIGN c2_t7_basic_alien_top
+VIEW symbol.sb
+GRAPHIC 137,0 80 0 
+DESIGN c2_t7_basic_alien_top
+VIEW symbol.sb
+GRAPHIC 610,0 81 0 
+DESIGN c2_t7_basic_alien_top
+VIEW symbol.sb
+GRAPHIC 152,0 82 0 
+DESIGN c2_t7_basic_alien_top
+VIEW symbol.sb
+GRAPHIC 142,0 83 0 
+DESIGN c2_t7_basic_alien_top
+VIEW symbol.sb
+GRAPHIC 147,0 84 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1251,0 87 0 
+DESIGN c3_t1_gun_module
+VIEW symbol.sb
+GRAPHIC 139,0 89 0 
+DESIGN c3_t1_gun_module
+VIEW symbol.sb
+GRAPHIC 649,0 90 0 
+DESIGN c3_t1_gun_module
+VIEW symbol.sb
+GRAPHIC 129,0 91 0 
+DESIGN c3_t1_gun_module
+VIEW symbol.sb
+GRAPHIC 144,0 92 0 
+DESIGN c3_t1_gun_module
+VIEW symbol.sb
+GRAPHIC 124,0 93 0 
+DESIGN c3_t1_gun_module
+VIEW symbol.sb
+GRAPHIC 159,0 94 0 
+DESIGN c3_t1_gun_module
+VIEW symbol.sb
+GRAPHIC 149,0 95 0 
+DESIGN c3_t1_gun_module
+VIEW symbol.sb
+GRAPHIC 909,0 96 0 
+DESIGN c3_t1_gun_module
+VIEW symbol.sb
+GRAPHIC 154,0 97 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 313,0 100 0 
+DESIGN c3_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 219,0 102 0 
+DESIGN c3_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 249,0 103 0 
+DESIGN c3_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 126,0 104 0 
+DESIGN c3_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 156,0 105 0 
+DESIGN c3_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 166,0 106 0 
+DESIGN c3_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 131,0 107 0 
+DESIGN c3_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 136,0 108 0 
+DESIGN c3_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 141,0 109 0 
+DESIGN c3_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 146,0 110 0 
+DESIGN c3_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 151,0 111 0 
+DESIGN c3_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 161,0 112 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 936,0 115 0 
+DESIGN c3_t4_gun_bullet
+VIEW symbol.sb
+GRAPHIC 134,0 117 0 
+DESIGN c3_t4_gun_bullet
+VIEW symbol.sb
+GRAPHIC 124,0 118 0 
+DESIGN c3_t4_gun_bullet
+VIEW symbol.sb
+GRAPHIC 144,0 119 0 
+DESIGN c3_t4_gun_bullet
+VIEW symbol.sb
+GRAPHIC 139,0 120 0 
+DESIGN c3_t4_gun_bullet
+VIEW symbol.sb
+GRAPHIC 129,0 121 0 
+DESIGN c3_t4_gun_bullet
+VIEW symbol.sb
+GRAPHIC 159,0 122 0 
+DESIGN c3_t4_gun_bullet
+VIEW symbol.sb
+GRAPHIC 149,0 123 0 
+DESIGN c3_t4_gun_bullet
+VIEW symbol.sb
+GRAPHIC 154,0 124 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 499,0 127 0 
+DESIGN c4_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 132,0 129 0 
+DESIGN c4_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 137,0 130 0 
+DESIGN c4_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 142,0 131 0 
+DESIGN c4_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 122,0 132 0 
+DESIGN c4_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 127,0 133 0 
+DESIGN c4_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 147,0 134 0 
+DESIGN c4_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 152,0 135 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 427,0 138 0 
+DESIGN c4_t2_victory_effect
+VIEW symbol.sb
+GRAPHIC 120,0 140 0 
+DESIGN c4_t2_victory_effect
+VIEW symbol.sb
+GRAPHIC 125,0 141 0 
+DESIGN c4_t2_victory_effect
+VIEW symbol.sb
+GRAPHIC 140,0 142 0 
+DESIGN c4_t2_victory_effect
+VIEW symbol.sb
+GRAPHIC 145,0 143 0 
+DESIGN c4_t2_victory_effect
+VIEW symbol.sb
+GRAPHIC 130,0 144 0 
+DESIGN c4_t2_victory_effect
+VIEW symbol.sb
+GRAPHIC 135,0 145 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 461,0 148 0 
+DESIGN hit_counter
+VIEW symbol.sb
+GRAPHIC 120,0 150 0 
+DESIGN hit_counter
+VIEW symbol.sb
+GRAPHIC 130,0 151 0 
+DESIGN hit_counter
+VIEW symbol.sb
+GRAPHIC 125,0 152 0 
+DESIGN hit_counter
+VIEW symbol.sb
+GRAPHIC 135,0 153 0 
+DESIGN hit_counter
+VIEW symbol.sb
+GRAPHIC 140,0 154 0 
+DESIGN hit_counter
+VIEW symbol.sb
+GRAPHIC 145,0 155 0 
+LIBRARY alien_game_lib
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+NO_GRAPHIC 158
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1062,0 161 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1251,0 162 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 313,0 163 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 936,0 164 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 499,0 165 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 427,0 166 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 461,0 167 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+NO_GRAPHIC 170
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 565,0 172 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 616,0 185 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 667,0 198 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+NO_GRAPHIC 211
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1062,0 213 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 29,0 215 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 511,0 216 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1094,0 217 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1100,0 218 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 71,0 219 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1086,0 220 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 852,0 221 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 816,0 222 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 834,0 223 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1251,0 225 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 15,0 227 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1144,0 228 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 521,0 229 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 972,0 230 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1120,0 231 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 858,0 232 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 822,0 233 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1309,0 234 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 840,0 235 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 313,0 237 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1020,0 239 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 517,0 240 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1209,0 241 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1203,0 242 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 99,0 243 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 511,0 244 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1094,0 245 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 57,0 246 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 972,0 247 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 794,0 248 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 113,0 249 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 936,0 251 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 976,0 253 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1150,0 254 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 964,0 255 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1309,0 256 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1126,0 257 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 960,0 258 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 948,0 259 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 954,0 260 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 499,0 262 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 892,0 264 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 898,0 265 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1156,0 266 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 990,0 267 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 996,0 268 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1132,0 269 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1012,0 270 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 427,0 272 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1191,0 274 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1197,0 275 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 864,0 276 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 517,0 277 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 828,0 278 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 846,0 279 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 461,0 281 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1162,0 283 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1012,0 284 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1138,0 285 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 85,0 286 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1086,0 287 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+GRAPHIC 1020,0 288 0 
+DESIGN c5_t4_game_logic_top_level
+VIEW struct.bd
+NO_GRAPHIC 291

@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom testbench
+DEFAULT_FILE atom shifter_down_tester_testbench.vhd

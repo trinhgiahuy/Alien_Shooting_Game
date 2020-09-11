@@ -1,0 +1,57 @@
+DESIGN c1_t1_half_adder
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN c1_t1_half_adder
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN c1_t1_half_adder
+VIEW symbol.sb
+GRAPHIC 116,0 14 0 
+DESIGN c1_t1_half_adder
+VIEW symbol.sb
+GRAPHIC 121,0 15 0 
+DESIGN c1_t1_half_adder
+VIEW symbol.sb
+GRAPHIC 126,0 16 0 
+DESIGN c1_t1_half_adder
+VIEW symbol.sb
+GRAPHIC 131,0 17 0 
+DESIGN c1_t1_half_adder
+VIEW symbol.sb
+GRAPHIC 1,0 20 0 
+DESIGN c1_t1_half_adder
+VIEW symbol.sb
+GRAPHIC 1,0 21 0 
+DESIGN c1_t1_half_adder
+VIEW struct.bd
+NO_GRAPHIC 24
+DESIGN c1_t1_half_adder
+VIEW struct.bd
+GRAPHIC 105,0 33 0 
+DESIGN c1_t1_half_adder
+VIEW struct.bd
+NO_GRAPHIC 36
+DESIGN c1_t1_half_adder
+VIEW struct.bd
+GRAPHIC 0,0 38 2 
+DESIGN c1_t1_half_adder
+VIEW struct.bd
+NO_GRAPHIC 43
+DESIGN c1_t1_half_adder
+VIEW struct.bd
+NO_GRAPHIC 44
+DESIGN c1_t1_half_adder
+VIEW struct.bd
+NO_GRAPHIC 45
+DESIGN c1_t1_half_adder
+VIEW struct.bd
+GRAPHIC 201,0 47 0 
+DESIGN c1_t1_half_adder
+VIEW struct.bd
+GRAPHIC 248,0 50 0 
+DESIGN c1_t1_half_adder
+VIEW struct.bd
+NO_GRAPHIC 53
+DESIGN c1_t1_half_adder
+VIEW struct.bd
+NO_GRAPHIC 56

@@ -1,0 +1,2 @@
+DEFAULT_FILE atom c3_t3_button_state/fsm.sm
+DEFAULT_ARCHITECTURE atom fsm

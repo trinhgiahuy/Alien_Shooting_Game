@@ -1,0 +1,75 @@
+DESIGN c2_t3_left_shifter
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN c2_t3_left_shifter
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN c2_t3_left_shifter
+VIEW symbol.sb
+GRAPHIC 112,0 14 0 
+DESIGN c2_t3_left_shifter
+VIEW symbol.sb
+GRAPHIC 117,0 15 0 
+DESIGN c2_t3_left_shifter
+VIEW symbol.sb
+GRAPHIC 1,0 18 0 
+DESIGN c2_t3_left_shifter
+VIEW symbol.sb
+GRAPHIC 1,0 19 0 
+DESIGN c2_t3_left_shifter
+VIEW struct.bd
+NO_GRAPHIC 22
+DESIGN c2_t3_left_shifter
+VIEW struct.bd
+GRAPHIC 73,0 31 0 
+DESIGN c2_t3_left_shifter
+VIEW struct.bd
+NO_GRAPHIC 34
+DESIGN c2_t3_left_shifter
+VIEW struct.bd
+GRAPHIC 0,0 36 2 
+DESIGN c2_t3_left_shifter
+VIEW struct.bd
+GRAPHIC 578,0 41 0 
+DESIGN c2_t3_left_shifter
+VIEW struct.bd
+GRAPHIC 584,0 42 0 
+DESIGN c2_t3_left_shifter
+VIEW struct.bd
+GRAPHIC 590,0 43 0 
+DESIGN c2_t3_left_shifter
+VIEW struct.bd
+GRAPHIC 596,0 44 0 
+DESIGN c2_t3_left_shifter
+VIEW struct.bd
+GRAPHIC 602,0 45 0 
+DESIGN c2_t3_left_shifter
+VIEW struct.bd
+GRAPHIC 608,0 46 0 
+DESIGN c2_t3_left_shifter
+VIEW struct.bd
+GRAPHIC 614,0 47 0 
+DESIGN c2_t3_left_shifter
+VIEW struct.bd
+GRAPHIC 659,0 48 0 
+DESIGN c2_t3_left_shifter
+VIEW struct.bd
+NO_GRAPHIC 49
+DESIGN c2_t3_left_shifter
+VIEW struct.bd
+NO_GRAPHIC 53
+DESIGN c2_t3_left_shifter
+VIEW struct.bd
+NO_GRAPHIC 54
+DESIGN c2_t3_left_shifter
+VIEW struct.bd
+GRAPHIC 216,0 56 0 
+DESIGN c2_t3_left_shifter
+VIEW struct.bd
+GRAPHIC 175,0 59 0 
+DESIGN c2_t3_left_shifter
+VIEW struct.bd
+NO_GRAPHIC 75
+DESIGN c2_t3_left_shifter
+VIEW struct.bd
+NO_GRAPHIC 78

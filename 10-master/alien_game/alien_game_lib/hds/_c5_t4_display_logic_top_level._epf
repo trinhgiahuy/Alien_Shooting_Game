@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom struct
+DEFAULT_FILE atom c5_t4_display_logic_top_level/struct.bd

@@ -1,0 +1,165 @@
+DESIGN tb_gamma
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN tb_gamma
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN tb_gamma
+VIEW symbol.sb
+GRAPHIC 1,0 13 0 
+DESIGN tb_gamma
+VIEW symbol.sb
+GRAPHIC 1,0 14 0 
+DESIGN tb_gamma
+VIEW struct.bd
+NO_GRAPHIC 17
+DESIGN tb_gamma
+VIEW struct.bd
+GRAPHIC 41,0 26 0 
+DESIGN tb_gamma
+VIEW struct.bd
+NO_GRAPHIC 29
+DESIGN tb_gamma
+VIEW struct.bd
+GRAPHIC 0,0 33 2 
+DESIGN tb_gamma
+VIEW struct.bd
+GRAPHIC 127,0 38 0 
+DESIGN tb_gamma
+VIEW struct.bd
+GRAPHIC 137,0 39 0 
+DESIGN tb_gamma
+VIEW struct.bd
+GRAPHIC 426,0 40 0 
+DESIGN tb_gamma
+VIEW struct.bd
+GRAPHIC 147,0 41 0 
+DESIGN tb_gamma
+VIEW struct.bd
+GRAPHIC 486,0 42 0 
+DESIGN tb_gamma
+VIEW struct.bd
+GRAPHIC 167,0 43 0 
+DESIGN tb_gamma
+VIEW struct.bd
+GRAPHIC 177,0 44 0 
+DESIGN tb_gamma
+VIEW struct.bd
+NO_GRAPHIC 45
+DESIGN tb_gamma
+VIEW struct.bd
+NO_GRAPHIC 46
+LIBRARY alien_game_lib
+DESIGN c5_t1_shield_gamma_set
+VIEW fsm
+GRAPHIC 838,0 48 0 
+DESIGN c5_t1_shield_gamma_set
+VIEW symbol.sb
+GRAPHIC 122,0 50 0 
+DESIGN c5_t1_shield_gamma_set
+VIEW symbol.sb
+GRAPHIC 327,0 51 0 
+DESIGN c5_t1_shield_gamma_set
+VIEW symbol.sb
+GRAPHIC 132,0 52 0 
+DESIGN c5_t1_shield_gamma_set
+VIEW symbol.sb
+GRAPHIC 147,0 53 0 
+DESIGN c5_t1_shield_gamma_set
+VIEW symbol.sb
+GRAPHIC 152,0 54 0 
+DESIGN c5_t1_shield_gamma_set
+VIEW symbol.sb
+GRAPHIC 137,0 55 0 
+DESIGN c5_t1_shield_gamma_set
+VIEW symbol.sb
+GRAPHIC 142,0 56 0 
+LIBRARY tb_lib
+DESIGN gamma_set_tester
+VIEW struct
+GRAPHIC 375,0 59 0 
+DESIGN gamma_set_tester
+VIEW symbol.sb
+GRAPHIC 196,0 61 0 
+DESIGN gamma_set_tester
+VIEW symbol.sb
+GRAPHIC 216,0 62 0 
+DESIGN gamma_set_tester
+VIEW symbol.sb
+GRAPHIC 221,0 63 0 
+DESIGN gamma_set_tester
+VIEW symbol.sb
+GRAPHIC 201,0 64 0 
+DESIGN gamma_set_tester
+VIEW symbol.sb
+GRAPHIC 1351,0 65 0 
+DESIGN gamma_set_tester
+VIEW symbol.sb
+GRAPHIC 206,0 66 0 
+DESIGN gamma_set_tester
+VIEW symbol.sb
+GRAPHIC 1381,0 67 0 
+LIBRARY tb_lib
+DESIGN tb_gamma
+VIEW struct.bd
+NO_GRAPHIC 70
+DESIGN tb_gamma
+VIEW struct.bd
+GRAPHIC 838,0 73 0 
+DESIGN tb_gamma
+VIEW struct.bd
+GRAPHIC 375,0 74 0 
+DESIGN tb_gamma
+VIEW struct.bd
+NO_GRAPHIC 77
+DESIGN tb_gamma
+VIEW struct.bd
+NO_GRAPHIC 79
+DESIGN tb_gamma
+VIEW struct.bd
+GRAPHIC 838,0 81 0 
+DESIGN tb_gamma
+VIEW struct.bd
+GRAPHIC 129,0 83 0 
+DESIGN tb_gamma
+VIEW struct.bd
+GRAPHIC 139,0 84 0 
+DESIGN tb_gamma
+VIEW struct.bd
+GRAPHIC 149,0 85 0 
+DESIGN tb_gamma
+VIEW struct.bd
+GRAPHIC 119,0 86 0 
+DESIGN tb_gamma
+VIEW struct.bd
+GRAPHIC 159,0 88 0 
+DESIGN tb_gamma
+VIEW struct.bd
+GRAPHIC 169,0 89 0 
+DESIGN tb_gamma
+VIEW struct.bd
+GRAPHIC 375,0 91 0 
+DESIGN tb_gamma
+VIEW struct.bd
+GRAPHIC 119,0 93 0 
+DESIGN tb_gamma
+VIEW struct.bd
+GRAPHIC 159,0 94 0 
+DESIGN tb_gamma
+VIEW struct.bd
+GRAPHIC 169,0 95 0 
+DESIGN tb_gamma
+VIEW struct.bd
+GRAPHIC 129,0 96 0 
+DESIGN tb_gamma
+VIEW struct.bd
+GRAPHIC 428,0 97 0 
+DESIGN tb_gamma
+VIEW struct.bd
+GRAPHIC 139,0 98 0 
+DESIGN tb_gamma
+VIEW struct.bd
+GRAPHIC 149,0 99 0 
+DESIGN tb_gamma
+VIEW struct.bd
+NO_GRAPHIC 102

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created HDS 2004.1a -->
+
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<script xlink:href="../../scripts/SVGPan.js" />
+<g id="viewport" transform="translate(0,-100)">
+
+
+<title>SVG Image</title>
+<desc></desc>
+
+
+<defs>
+<!-- section for CSS stylesheet definitions -->
+<style type="text/css"><![CDATA[
+.allText {font-family:Sans-Serif;fill:darkcyan;}
+.subTitleText {font-size:20;font-weight:bold;}
+.normalText {font-size:15;}
+.smallText {font-size:12;}
+.boldText {font-weight:bold;}
+.rightText {text-anchor:end;}
+.centerText {text-anchor:middle;}
+.dragRect {fill:darkcyan;stroke:none;opacity:0.4;}
+]]></style>
+<symbol id="upArrow" overflow="visible" style="stroke:darkcyan;fill:darkcyan;stroke-width:1;" pointer-events="none">
+<polygon points="5,0 10,5 0,5 5,0" />
+</symbol>
+<symbol id="leftArrow" overflow="visible" style="stroke:darkcyan;fill:darkcyan;stroke-width:1;" pointer-events="none">
+<polygon points="0,5 5,0 5,10 0,5" />
+</symbol>
+<symbol id="rightArrow" overflow="visible" style="stroke:darkcyan;fill:darkcyan;stroke-width:1;" pointer-events="none">
+<polygon points="5,0 10,5 5,10 5,0" />
+</symbol>
+<symbol id="downArrow" overflow="visible" style="stroke:darkcyan;fill:darkcyan;stroke-width:1;" pointer-events="none">
+<polygon points="0,0 5,5 10,0 0,0" />
+</symbol>
+
+</defs>
+<svg id="mainMap" x="0" y="150" viewBox="0 0 907 642" width="912" height="512">
+
+
+<clipPath id="SVG_Clip">
+<rect x="0" y="0" width="907" height="642" />
+</clipPath>
+<g id="hds_models" style="clip-path:url(#SVG_Clip)">
+<rect id="r0"  stroke="rgb(0,255,0)" fill="rgb(0,255,0)" stroke-width="1px" stroke-dasharray="" y="76px" x="188px" width="224px" height="249px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,128,0)" fill="none" stroke-width="3px" stroke-dasharray="" y="76px" x="188px" width="224px" height="249px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="625px" x="387px" width="213px" height="12px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="625px" x="387px" width="213px" height="12px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="575px" x="600px" width="50px" height="12px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="575px" x="600px" width="50px" height="12px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="600px" x="387px" width="213px" height="12px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="600px" x="387px" width="213px" height="12px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="600px" x="337px" width="50px" height="12px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="600px" x="337px" width="50px" height="12px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="587px" x="600px" width="250px" height="50px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="587px" x="600px" width="250px" height="50px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="575px" x="650px" width="200px" height="12px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="575px" x="650px" width="200px" height="12px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="575px" x="337px" width="263px" height="25px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="575px" x="337px" width="263px" height="25px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="612px" x="337px" width="50px" height="13px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="612px" x="337px" width="50px" height="13px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="625px" x="337px" width="50px" height="12px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="625px" x="337px" width="50px" height="12px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="612px" x="387px" width="213px" height="13px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="612px" x="387px" width="213px" height="13px" rx="0" ry="0" />
+<polyline id="r0"  stroke="rgb(0,255,0)" fill="rgb(0,255,0)" stroke-width="1px" stroke-dasharray="" points="187, 87,178, 92,178, 83,187, 87" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="187, 87,178, 92,178, 83,187, 87" /> 
+<polyline id="r0"  stroke="rgb(0,255,0)" fill="rgb(0,255,0)" stroke-width="1px" stroke-dasharray="" points="187, 100,178, 105,178, 95,187, 100" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="187, 100,178, 105,178, 95,187, 100" /> 
+<polyline id="r0"  stroke="rgb(0,255,0)" fill="rgb(0,255,0)" stroke-width="1px" stroke-dasharray="" points="422, 87,412, 92,412, 83,422, 87" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="422, 87,412, 92,412, 83,422, 87" /> 
+<text x="0" y="10" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Package List</text>
+<text x="0" y="22" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">LIBRARY ieee;</text>
+<text x="0" y="35" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">USE ieee.std_logic_1164.all;</text>
+<text x="0" y="47" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">USE ieee.std_logic_arith.all;</text>
+<text x="525" y="10" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Declarations</text>
+<text x="525" y="22" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Ports:</text>
+<text x="525" y="65" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">User:</text>
+<text x="277" y="197" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">alien_game_lib</text>
+<text x="277" y="210" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">c2_t7_basic_alien_position_direction</text>
+<text x="0" y="157" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">Generic Declarations</text>
+<text x="200" y="91" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">x_coord : (7:0)</text>
+<text x="550" y="32" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">x_coord      : IN     std_logic_vector (7 DOWNTO 0) ;</text>
+<text x="200" y="104" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">x_direct_in</text>
+<text x="550" y="42" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">x_direct_in  : IN     std_logic  ;</text>
+<text x="400" y="91" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="end">x_direct_out</text>
+<text x="550" y="52" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">x_direct_out : OUT    std_logic </text>
+<text x="390" y="635" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">by Asus on 27 May 2020</text>
+<text x="602" y="585" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">Project:</text>
+<text x="390" y="610" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">&#0060;enter diagram title here&#0062;</text>
+<text x="340" y="610" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">Title:</text>
+<text x="602" y="600" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">&#0060;enter comments here&#0062;</text>
+<text x="652" y="585" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">alien_game</text>
+<text x="469" y="591" font-family="Arial" fill="rgb(127,0,0)" font-size="10" text-anchor="middle">&#0060;company name&#0062;</text>
+<text x="340" y="622" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">Path:</text>
+<text x="340" y="635" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">Edited:</text>
+<text x="390" y="622" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">  &#0060;&#0060;-- more --&#0062;&#0062;</text>
+</g>
+</svg>
+<!-- Create a "titlebox" group so we can reposition it when the SVG moves -->
+<g id="titlebox">
+<g id="genTime" class="allText normalText">
+  <text class="allText smallText" x="300" y="123">Generated on: 05/29/2020 at: 10:20 PM</text>
+</g>
+
+<rect stroke="none" fill="rgb(200,230,240)" opacity="0.4" y="112" x="0" width="914" height="15" />
+<!-- Close the "titlebox" group -->
+</g>
+
+</g>
+</svg>

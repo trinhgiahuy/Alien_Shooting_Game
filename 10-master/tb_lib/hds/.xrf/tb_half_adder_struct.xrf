@@ -1,0 +1,114 @@
+DESIGN tb_half_adder
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN tb_half_adder
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN tb_half_adder
+VIEW symbol.sb
+GRAPHIC 1,0 13 0 
+DESIGN tb_half_adder
+VIEW symbol.sb
+GRAPHIC 1,0 14 0 
+DESIGN tb_half_adder
+VIEW struct.bd
+NO_GRAPHIC 17
+DESIGN tb_half_adder
+VIEW struct.bd
+GRAPHIC 41,0 26 0 
+DESIGN tb_half_adder
+VIEW struct.bd
+NO_GRAPHIC 29
+DESIGN tb_half_adder
+VIEW struct.bd
+GRAPHIC 0,0 33 2 
+DESIGN tb_half_adder
+VIEW struct.bd
+GRAPHIC 149,0 38 0 
+DESIGN tb_half_adder
+VIEW struct.bd
+GRAPHIC 173,0 39 0 
+DESIGN tb_half_adder
+VIEW struct.bd
+GRAPHIC 332,0 40 0 
+DESIGN tb_half_adder
+VIEW struct.bd
+GRAPHIC 338,0 41 0 
+DESIGN tb_half_adder
+VIEW struct.bd
+NO_GRAPHIC 42
+DESIGN tb_half_adder
+VIEW struct.bd
+NO_GRAPHIC 43
+LIBRARY alien_game_lib
+DESIGN c1_t1_half_adder
+VIEW struct
+GRAPHIC 1173,0 45 0 
+DESIGN c1_t1_half_adder
+VIEW symbol.sb
+GRAPHIC 116,0 47 0 
+DESIGN c1_t1_half_adder
+VIEW symbol.sb
+GRAPHIC 121,0 48 0 
+DESIGN c1_t1_half_adder
+VIEW symbol.sb
+GRAPHIC 126,0 49 0 
+DESIGN c1_t1_half_adder
+VIEW symbol.sb
+GRAPHIC 131,0 50 0 
+LIBRARY tb_lib
+DESIGN half_adder_test_block
+VIEW testbench
+GRAPHIC 446,0 53 0 
+DESIGN tb_half_adder
+VIEW struct.bd
+NO_GRAPHIC 59
+LIBRARY tb_lib
+DESIGN tb_half_adder
+VIEW struct.bd
+NO_GRAPHIC 61
+DESIGN tb_half_adder
+VIEW struct.bd
+GRAPHIC 1173,0 64 0 
+DESIGN tb_half_adder
+VIEW struct.bd
+GRAPHIC 446,0 65 0 
+DESIGN tb_half_adder
+VIEW struct.bd
+NO_GRAPHIC 68
+DESIGN tb_half_adder
+VIEW struct.bd
+NO_GRAPHIC 70
+DESIGN tb_half_adder
+VIEW struct.bd
+GRAPHIC 1173,0 72 0 
+DESIGN tb_half_adder
+VIEW struct.bd
+GRAPHIC 334,0 74 0 
+DESIGN tb_half_adder
+VIEW struct.bd
+GRAPHIC 340,0 75 0 
+DESIGN tb_half_adder
+VIEW struct.bd
+GRAPHIC 141,0 76 0 
+DESIGN tb_half_adder
+VIEW struct.bd
+GRAPHIC 165,0 77 0 
+DESIGN tb_half_adder
+VIEW struct.bd
+GRAPHIC 446,0 79 0 
+DESIGN tb_half_adder
+VIEW struct.bd
+GRAPHIC 141,0 81 0 
+DESIGN tb_half_adder
+VIEW struct.bd
+GRAPHIC 165,0 82 0 
+DESIGN tb_half_adder
+VIEW struct.bd
+GRAPHIC 334,0 83 0 
+DESIGN tb_half_adder
+VIEW struct.bd
+GRAPHIC 340,0 84 0 
+DESIGN tb_half_adder
+VIEW struct.bd
+NO_GRAPHIC 87

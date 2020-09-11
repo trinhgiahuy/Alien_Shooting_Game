@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom testbench
+DEFAULT_FILE atom hit_assertion_testbench.vhd

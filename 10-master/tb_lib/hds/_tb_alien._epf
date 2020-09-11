@@ -1,0 +1,2 @@
+DEFAULT_FILE atom tb_alien/struct.bd
+DEFAULT_ARCHITECTURE atom struct

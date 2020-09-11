@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom struct
+DEFAULT_FILE atom c1_t1_half_adder/struct.bd

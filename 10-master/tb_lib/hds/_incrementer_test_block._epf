@@ -1,0 +1,2 @@
+DEFAULT_FILE atom incrementer_test_block/struct.bd
+DEFAULT_ARCHITECTURE atom struct

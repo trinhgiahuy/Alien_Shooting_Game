@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom testbench
+DEFAULT_FILE atom tx_test_block_testbench.vhd

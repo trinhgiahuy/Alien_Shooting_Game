@@ -1,0 +1,96 @@
+DESIGN tb_shift_up
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN tb_shift_up
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN tb_shift_up
+VIEW symbol.sb
+GRAPHIC 1,0 13 0 
+DESIGN tb_shift_up
+VIEW symbol.sb
+GRAPHIC 1,0 14 0 
+DESIGN tb_shift_up
+VIEW struct.bd
+NO_GRAPHIC 17
+DESIGN tb_shift_up
+VIEW struct.bd
+GRAPHIC 41,0 26 0 
+DESIGN tb_shift_up
+VIEW struct.bd
+NO_GRAPHIC 29
+DESIGN tb_shift_up
+VIEW struct.bd
+GRAPHIC 0,0 33 2 
+DESIGN tb_shift_up
+VIEW struct.bd
+GRAPHIC 277,0 38 0 
+DESIGN tb_shift_up
+VIEW struct.bd
+GRAPHIC 143,0 39 0 
+DESIGN tb_shift_up
+VIEW struct.bd
+GRAPHIC 139,0 40 0 
+DESIGN tb_shift_up
+VIEW struct.bd
+NO_GRAPHIC 41
+DESIGN tb_shift_up
+VIEW struct.bd
+NO_GRAPHIC 42
+LIBRARY alien_game_lib
+DESIGN c2_t3_left_shifter
+VIEW struct
+GRAPHIC 485,0 44 0 
+DESIGN c2_t3_left_shifter
+VIEW symbol.sb
+GRAPHIC 112,0 46 0 
+DESIGN c2_t3_left_shifter
+VIEW symbol.sb
+GRAPHIC 117,0 47 0 
+LIBRARY tb_lib
+DESIGN shift_up_tester
+VIEW testbench
+GRAPHIC 366,0 50 0 
+DESIGN tb_shift_up
+VIEW struct.bd
+NO_GRAPHIC 55
+LIBRARY tb_lib
+DESIGN tb_shift_up
+VIEW struct.bd
+NO_GRAPHIC 57
+DESIGN tb_shift_up
+VIEW struct.bd
+GRAPHIC 485,0 60 0 
+DESIGN tb_shift_up
+VIEW struct.bd
+GRAPHIC 366,0 61 0 
+DESIGN tb_shift_up
+VIEW struct.bd
+NO_GRAPHIC 64
+DESIGN tb_shift_up
+VIEW struct.bd
+NO_GRAPHIC 66
+DESIGN tb_shift_up
+VIEW struct.bd
+GRAPHIC 485,0 68 0 
+DESIGN tb_shift_up
+VIEW struct.bd
+GRAPHIC 121,0 70 0 
+DESIGN tb_shift_up
+VIEW struct.bd
+GRAPHIC 131,0 71 0 
+DESIGN tb_shift_up
+VIEW struct.bd
+GRAPHIC 366,0 73 0 
+DESIGN tb_shift_up
+VIEW struct.bd
+GRAPHIC 131,0 75 0 
+DESIGN tb_shift_up
+VIEW struct.bd
+GRAPHIC 279,0 76 0 
+DESIGN tb_shift_up
+VIEW struct.bd
+GRAPHIC 121,0 77 0 
+DESIGN tb_shift_up
+VIEW struct.bd
+NO_GRAPHIC 80

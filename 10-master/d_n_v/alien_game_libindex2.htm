@@ -1,0 +1,209 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML><HEAD>
+<TITLE>HD Designer Web Export</TITLE>
+<META NAME="ROBOTS" CONTENT="NOINDEX">
+
+<!--
+Joust Outliner Version 2.5.4
+(c) Copyright 1996-2001, MITEM (Europe) Ltd. All rights reserved.
+This code may be freely copied and distributed provided that it is accompanied by this
+header.  For full details of the Joust license, as well as documentation and help, go
+to http://www.ivanpeters.com/.
+
+Do not modify anything between here and the "End of Joust" marker unless you know what you
+are doing.
+-->
+<script language="JavaScript">
+<!--
+function getMode() {
+	var theMode = getParm(document.cookie, 'mode', ';');
+	return ((theMode == "Floating") || (theMode == "NoFrames")) ? theMode : "Frames";
+}
+function smOnError (msg, url, lno) {
+	self.onerror = oldErrorHandler;
+	if (confirm(smSecurityMsg)) {
+		savePage = false;
+		setTimeout('menuClosed();', 100);
+	} else {
+		if (getMode() != 'Floating') {document.cookie = 'mode=Floating; path=/';}
+		openMenu(index1);
+	}
+	return true;
+}
+function menuClosed() {
+	var currentMode = getMode();
+	if (currentMode == 'Floating') {
+		document.cookie = 'mode=Frames; path=/';
+		currentMode = getMode();
+		if (currentMode != 'Frames') {
+			alert(smCookieMsg);
+			openMenu(index1);
+		}
+	}
+	if (currentMode == 'Floating') {
+		openMenu(index1);
+	} else {
+		var dest = '';
+		var okToGo = true;
+		if (savePage) {
+			if (canOnError) {
+				oldErrorHandler = self.onerror;
+				self.onerror = smOnError;
+			}
+			var l = contentWin.location;
+			var p = l.pathname;
+			if (canOnError) {self.onerror = oldErrorHandler;}
+			if (p) {
+				dest = fixPath(p) + l.search;
+			} else {
+				if (!confirm(smSecurityMsg)) {okToGo = false;}
+			}
+		}
+		if (okToGo) {
+			if (currentMode == 'NoFrames') {
+				dest = (index3 == '') ? ((dest == '') ? '/' : dest) : index3;
+			} else {
+				dest = index1 + ((dest == '') ? '' : '?page=' + escape(dest));
+			}
+			theMenu = theBrowser = imgStore = JoustMenu = null;
+			setTimeout('self.location.href = "' + dest + '";', 10);
+		}
+	}
+}
+function closeMenu() {
+	if (JoustMenu != null) {
+		if (JoustMenu.myOpener) {JoustMenu.myOpener = null;}
+		if (JoustMenu.theMenu) {JoustMenu.close();}
+	}
+}
+function setGlobals() {
+	if ((JoustMenu != null) && pageLoaded) {
+		theMenu = JoustMenu.theMenu;
+		theBrowser = JoustMenu.theBrowser;
+		imgStore = JoustMenu.imgStore;
+		savePage = theMenu.savePage;
+		contentWin = eval('self.' + theMenu.contentFrame);
+		canOnError = theBrowser.canOnError;
+		smCookieMsg = JoustMenu.smCookieMsg;
+		smSecurityMsg = JoustMenu.smSecurityMsg;
+		jsErrorMsg = JoustMenu.jsErrorMsg;
+		if (canOnError) {self.onerror = defOnError;}
+	} else {
+		setTimeout('setGlobals();', 100);
+	}
+}
+function loaded() {
+	pageLoaded = true;
+}
+function setStatus(theText) {
+	self.status = theText;
+	if (theBrowser.canOnMouseOut == false) {
+		clearTimeout(statusTimeout);
+		statusTimeout = setTimeout('clearStatus()', 5000);}
+	return true;
+}
+function clearStatus() {
+	self.status = '';
+}
+function fixPath(p) {
+	if (p.substring(0,2) == '/:') {p = p.substring(p.indexOf('/', 2), p.length);}
+	var i = p.indexOf('\\', 0);
+	while (i >= 0) {
+		p = p.substring(0,i) + '/' + p.substring(i+1,p.length);
+		i = p.indexOf('\\', i);
+	}
+	return p;
+}
+function getParm(string, parm, delim) {
+     // returns value of parm from string
+     if (string.length == 0) {return '';}
+	 var sPos = string.indexOf(parm + "=");
+     if (sPos == -1) {return '';}
+     sPos = sPos + parm.length + 1;
+     var ePos = string.indexOf(delim, sPos);
+     if (ePos == -1) {ePos = string.length;}
+     return unescape(string.substring(sPos, ePos));
+}
+function pageFromSearch(def, selIt) {
+	var s = self.location.search;
+	if ((s == null) || (s.length < 1)) {return def;}
+	var p = getParm(s, 'page', '&');
+	p = (p != '') ? fixPath(p) : def;
+	return p;
+}
+function openMenu(url, features) {
+	if (features) {menuWinFeatures = features;}
+	JoustMenu = window.open(url, "JoustMenu", menuWinFeatures);
+	if (JoustMenu.opener == null) {
+		JoustMenu.opener = self;
+	}
+}
+function defOnError(msg, url, lno) {
+	if (jsErrorMsg == '') {
+		return false;
+	} else {
+		alert(jsErrorMsg + '.\n\nError: ' + msg + '\nPage: ' + url + '\nLine: ' + lno + '\nBrowser: ' + navigator.userAgent);
+		return true;
+	}
+}
+
+var JoustMenu;
+var theMenu;
+var theBrowser;
+var imgStore;
+var contentWin;
+var savePage = true;
+var pageLoaded = false;
+var JoustFrameset = true;
+var menuWinFeatures = '';
+var canOnError = false;
+var oldErrorHandler;
+var smCookieMsg = '';
+var smSecurityMsg = '';
+var jsErrorMsg = '';
+
+if (getMode() != 'Floating') {document.cookie = 'mode=Floating; path=/';}
+
+//	############################   End of Joust   ############################
+
+self.defaultStatus = "";
+
+//-->
+</script>
+</HEAD>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+	var index1 = 'alien_game_libindex.htm';
+	var index2 = 'alien_game_libindex2.htm';
+	var index3 = 'alien_game_libindex3.htm';
+	var thePage = pageFromSearch('home.htm', true);
+
+	openMenu(index1 + "?page=" + escape(thePage), "toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=230,height=400");
+
+	self.document.writeln('<frameset cols="100%" rows="100%,*" onLoad="loaded();" onUnload="closeMenu();">');
+	self.document.writeln('<frame name="text" src="' + thePage + '" scrolling="auto" marginwidth="5" marginheight="5">');
+	self.document.writeln('<frame name="title" src="title.htm" scrolling="no" noresize marginwidth="0" marginheight="0">');
+	self.document.writeln('</frameset>');
+//-->
+</SCRIPT>
+<NOSCRIPT>
+<BODY BGCOLOR=#FFFFCC>
+<h1>Joust Outliner</h1>
+Your browser does not support JavaScript (if you are using Netscape 3 or higher or Microsoft Internet
+Explorer 4 or higher you may have JavaScript turned off in your network preferences), so this page,
+does not include site navigation features. If you use
+a JavaScript-capable browser, such as Microsoft <A HREF="http://microsoft.com/ie/ie.htm">Internet
+Explorer version 3.0</A> or <A HREF="http://www.netscape.com/comprod/mirror/">Netscape Navigator
+version 2.0</A>, you'll have a much more pleasant experience navigating around this site.</P>
+
+<P><I><B>Opera Users:</B> Although Opera 3.0 supports JavaScript, there is a bug in their implementation
+which prevents the menu system on this site from working.</I></P>
+
+<P><I><B>Note:</B> There is a know bug in Netscape Navigator version 4.0.x which will cause you to see this message
+if you have the local cache turned off.</I></P>
+
+<P>If you have any problems with this site, please contact the Webmaster of this site.
+</BODY>
+</NOSCRIPT>
+</HTML>

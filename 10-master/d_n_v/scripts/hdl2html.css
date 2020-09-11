@@ -1,0 +1,12 @@
+BODY { 	   /* main_body */
+  background:#FFFFFF;
+  color:#000000; 
+}
+
+/* verilog/vhdl language elements */
+SPAN.C       { color:#0000FF; }				/* comment */
+SPAN.K       { color:#CC3300; }				/* keyword */
+SPAN.S       { color:#009900; }				/* string  */
+SPAN.T       { color:#660033; }				/* type  */
+SPAN.A       { color:RED; }                             /* attribute */
+SPAN.D       { color:#AA0026; font-weight:bold; }       /* Compiler Directives */

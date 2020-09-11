@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom testbench
+DEFAULT_FILE atom reg_ctrl_gen_testbench.vhd

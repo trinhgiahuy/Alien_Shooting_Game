@@ -1,0 +1,115 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>The Joust Outliner - Menu Controls</TITLE>
+<META NAME="ROBOTS" CONTENT="NOINDEX,NOFOLLOW">
+<script language="JavaScript">
+<!--
+if ((self.name != 'menuHdr') & (self.location.protocol != "file:")) {
+	self.location = "index.htm";
+}
+if (parent.theBrowser) {
+	if (parent.theBrowser.canOnError) {window.onerror = parent.defOnError;}
+}
+//-->
+</script>
+<SCRIPT SRC="../scripts/is.js">
+</SCRIPT>
+<script language='javascript'>
+
+//---------------------------------------------------------------------------
+//  Code for handling Toolbar like buttons
+//
+var loaded = false;
+var imageDir = "../images/menu/hds/";
+
+if (document.images) {
+    BtnExpandAlloff = new Image();BtnExpandAlloff.src =  imageDir + "BtnExpandAll.gif";
+    BtnCollapseAlloff = new Image();BtnCollapseAlloff.src =  imageDir + "BtnCollapseAll.gif";
+    BtnHomeoff = new Image();BtnHomeoff.src = imageDir + "BtnHome.gif";
+}
+
+
+function imageLoad() {
+    if (document.images) {
+        BtnExpandAllon = new Image();BtnExpandAllon.src = imageDir + "BtnExpandAllOver.gif";
+        BtnCollapseAllon = new Image();BtnCollapseAllon.src = imageDir + "BtnCollapseAllOver.gif";
+        BtnHomeon = new Image();BtnHomeon.src = imageDir + "BtnHomeOver.gif";
+        return (loaded = true);
+    }
+}
+
+function rollOut(imgName) {
+    if (document.images) {
+       if (is.nav4) {
+          document.toolbar.document[imgName].src =  eval(imgName+"off.src");
+       } else {
+          document[imgName].src = eval(imgName+"off.src");
+       }
+    }
+}
+
+function rollIn(imgName) {
+    if (document.images && (loaded == true)) {
+       if (is.nav4) {
+          document.toolbar.document[imgName].src =  eval(imgName+"on.src");
+       } else {
+          document[imgName].src = eval(imgName+"on.src");
+       }
+    }
+}
+
+function addToolbarBtn(btnName, btnTip, btnStatus, btnFunction) {
+   str  = "<A HREF='javascript:parent.toolbarHtml()' ";
+   
+   if (btnFunction != "") str += "onclick='" + btnFunction + "();return false' ";
+
+   str += "onMouseOver=\"rollIn('" + btnName + "');window.status='" + btnStatus + "';return true\" " +
+          "onMouseOut=\"window.status='';rollOut('" + btnName + "');return true\">" +
+          "<img NAME='" + btnName + "' SRC='" + imageDir + btnName + ".gif' ALT='" + btnTip + "' width=24 height=22 BORDER=0>" +
+          "</A>";
+   return str;
+}
+
+function loadToolbar() {
+   var imgDef='<IMG height="1" src="' + imageDir + 'linespacer.gif" width="1">';
+   var toolbarStr='';
+   toolbarStr = "<table border=0 cellspacing=0 cellpadding=0 width=\"100%\" bgColor=#D4D0C8><tr>";
+   toolbarStr += '<td bgColor=white rowSpan="3" width="1">' + imgDef + '</TD>';
+   toolbarStr += '<TD bgColor=white height="1">' + imgDef + '</TD>'
+   toolbarStr += '<TD bgColor=#808080 rowSpan=3 width="1">' + imgDef + '</TD></TR><TR><td width="100%">'
+
+   toolbarStr += addToolbarBtn('BtnExpandAll', 'Expand All', 'Click to expand all folders in the menu.', 'parent.theMenu.openAll');
+   toolbarStr += addToolbarBtn('BtnCollapseAll', 'Collapse All', 'Click to collapse all folders in the menu.', 'parent.theMenu.closeAll');
+   toolbarStr += addToolbarBtn('BtnHome', 'Home', 'Click to go to the Home page.', 'gohome');
+   toolbarStr += "</td></tr><tr>";
+   toolbarStr += '<TD bgColor=#808080 height="1">' + imgDef + '</TD></TR>'
+   toolbarStr += "</tr></table>";
+   if (is.nav4) {
+      with (document.toolbar.document) {
+         open();
+         write(toolbarStr);
+         close();
+      }
+   } else {
+      document.getElementById('toolbar').innerHTML = toolbarStr;
+   }
+}
+
+function refreshToolbar() {
+  rollOut('BtnExpandAll');
+  rollOut('BtnCollapseAll');
+  rollOut('BtnHome');
+}
+
+function gohome() {
+   parent.text.location = '../titlepage.htm';
+}
+
+</script>
+</HEAD>
+<BODY BGCOLOR=#FFFFCC marginwidth="0" marginheight="0" onLoad="imageLoad();loadToolbar()" onResize="refreshToolbar()">
+<DIV ID=toolbar style="position:absolute; left: 0px; top: 26px">
+</DIV>
+</BODY>
+</HTML>

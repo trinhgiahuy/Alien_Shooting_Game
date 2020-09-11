@@ -1,0 +1,114 @@
+DESIGN tb_shield_rst
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN tb_shield_rst
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN tb_shield_rst
+VIEW symbol.sb
+GRAPHIC 1,0 13 0 
+DESIGN tb_shield_rst
+VIEW symbol.sb
+GRAPHIC 1,0 14 0 
+DESIGN tb_shield_rst
+VIEW struct.bd
+NO_GRAPHIC 17
+DESIGN tb_shield_rst
+VIEW struct.bd
+GRAPHIC 41,0 26 0 
+DESIGN tb_shield_rst
+VIEW struct.bd
+NO_GRAPHIC 29
+DESIGN tb_shield_rst
+VIEW struct.bd
+GRAPHIC 0,0 33 2 
+DESIGN tb_shield_rst
+VIEW struct.bd
+GRAPHIC 137,0 38 0 
+DESIGN tb_shield_rst
+VIEW struct.bd
+GRAPHIC 147,0 39 0 
+DESIGN tb_shield_rst
+VIEW struct.bd
+GRAPHIC 157,0 40 0 
+DESIGN tb_shield_rst
+VIEW struct.bd
+GRAPHIC 167,0 41 0 
+DESIGN tb_shield_rst
+VIEW struct.bd
+NO_GRAPHIC 42
+DESIGN tb_shield_rst
+VIEW struct.bd
+NO_GRAPHIC 43
+LIBRARY alien_game_lib
+DESIGN c4_t4_initial_reset
+VIEW fsm
+GRAPHIC 545,0 45 0 
+DESIGN c4_t4_initial_reset
+VIEW symbol.sb
+GRAPHIC 116,0 47 0 
+DESIGN c4_t4_initial_reset
+VIEW symbol.sb
+GRAPHIC 121,0 48 0 
+DESIGN c4_t4_initial_reset
+VIEW symbol.sb
+GRAPHIC 131,0 49 0 
+DESIGN c4_t4_initial_reset
+VIEW symbol.sb
+GRAPHIC 126,0 50 0 
+LIBRARY tb_lib
+DESIGN shield_rst_block
+VIEW testbench
+GRAPHIC 199,0 53 0 
+DESIGN tb_shield_rst
+VIEW struct.bd
+NO_GRAPHIC 59
+LIBRARY tb_lib
+DESIGN tb_shield_rst
+VIEW struct.bd
+NO_GRAPHIC 61
+DESIGN tb_shield_rst
+VIEW struct.bd
+GRAPHIC 545,0 64 0 
+DESIGN tb_shield_rst
+VIEW struct.bd
+GRAPHIC 199,0 65 0 
+DESIGN tb_shield_rst
+VIEW struct.bd
+NO_GRAPHIC 68
+DESIGN tb_shield_rst
+VIEW struct.bd
+NO_GRAPHIC 70
+DESIGN tb_shield_rst
+VIEW struct.bd
+GRAPHIC 545,0 72 0 
+DESIGN tb_shield_rst
+VIEW struct.bd
+GRAPHIC 129,0 74 0 
+DESIGN tb_shield_rst
+VIEW struct.bd
+GRAPHIC 149,0 75 0 
+DESIGN tb_shield_rst
+VIEW struct.bd
+GRAPHIC 139,0 76 0 
+DESIGN tb_shield_rst
+VIEW struct.bd
+GRAPHIC 159,0 77 0 
+DESIGN tb_shield_rst
+VIEW struct.bd
+GRAPHIC 199,0 79 0 
+DESIGN tb_shield_rst
+VIEW struct.bd
+GRAPHIC 129,0 81 0 
+DESIGN tb_shield_rst
+VIEW struct.bd
+GRAPHIC 149,0 82 0 
+DESIGN tb_shield_rst
+VIEW struct.bd
+GRAPHIC 159,0 83 0 
+DESIGN tb_shield_rst
+VIEW struct.bd
+GRAPHIC 139,0 84 0 
+DESIGN tb_shield_rst
+VIEW struct.bd
+NO_GRAPHIC 87

@@ -1,0 +1,37 @@
+   a:link       {color:black ; text-decoration:none} 
+   a:visited    {color:black ; text-decoration:none}
+   a:active     {color:black ; text-decoration:none}
+   table.menu   {font-family: arial; 
+                 font-size: 10pt; 
+                 margin: 7px 2px 2px 2px;
+                 width:90%}
+   td.current   {margin: 5px 5px 0px 5px; 
+                 vertical-align: bottom; 
+                 padding: 2px 2px 2px 2px; 
+                 border: 2px outset #ffffff; 
+                 border-bottom: 1px solid #cccccc; 
+                 font-weight: bold; 
+                 cursor: default}
+   td.right     {margin: 0px 0px 0px 0px; 
+                 vertical-align: bottom; 
+                 padding: 3px 0px 0px 0px; 
+                 border: 2px outset white;
+                 border-bottom: 2px inset white; 
+                 border-left: 0px; 
+                 cursor: default}
+   td.left     {margin: 0px 0px 0px 0px; 
+                 vertical-align: bottom; 
+                 padding: 3px 0px 0px 0px; 
+                 border: 2px outset white;
+                 border-bottom: 2px inset white; 
+                 border-right: 0px; 
+                 cursor: default}
+   td.line      {margin: 0px 0px 0px 0px; 
+                 vertical-align: bottom; 
+                 padding: 5px 0px 0px 0px; 
+                 border-bottom: 2px inset #ffffff; 
+                 cursor: default}
+
+  #toolbar {position:absolute; top:45}
+
+

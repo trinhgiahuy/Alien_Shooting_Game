@@ -1,0 +1,102 @@
+DESIGN tb_decrementer
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN tb_decrementer
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN tb_decrementer
+VIEW symbol.sb
+GRAPHIC 1,0 13 0 
+DESIGN tb_decrementer
+VIEW symbol.sb
+GRAPHIC 1,0 14 0 
+DESIGN tb_decrementer
+VIEW struct.bd
+NO_GRAPHIC 17
+DESIGN tb_decrementer
+VIEW struct.bd
+GRAPHIC 41,0 26 0 
+DESIGN tb_decrementer
+VIEW struct.bd
+NO_GRAPHIC 30
+DESIGN tb_decrementer
+VIEW struct.bd
+GRAPHIC 0,0 34 2 
+DESIGN tb_decrementer
+VIEW struct.bd
+GRAPHIC 129,0 39 0 
+DESIGN tb_decrementer
+VIEW struct.bd
+GRAPHIC 185,0 40 0 
+DESIGN tb_decrementer
+VIEW struct.bd
+GRAPHIC 252,0 41 0 
+DESIGN tb_decrementer
+VIEW struct.bd
+NO_GRAPHIC 42
+DESIGN tb_decrementer
+VIEW struct.bd
+NO_GRAPHIC 43
+LIBRARY alien_game_lib
+DESIGN c2_t2_decrementer
+VIEW struct
+GRAPHIC 703,0 45 0 
+DESIGN c2_t2_decrementer
+VIEW symbol.sb
+GRAPHIC 112,0 47 0 
+DESIGN c2_t2_decrementer
+VIEW symbol.sb
+GRAPHIC 117,0 48 0 
+LIBRARY tb_lib
+DESIGN decrementer_tester_block
+VIEW struct
+GRAPHIC 211,0 51 0 
+DESIGN decrementer_tester_block
+VIEW symbol.sb
+GRAPHIC 61,0 53 0 
+DESIGN decrementer_tester_block
+VIEW symbol.sb
+GRAPHIC 51,0 54 0 
+DESIGN decrementer_tester_block
+VIEW symbol.sb
+GRAPHIC 177,0 55 0 
+LIBRARY tb_lib
+DESIGN tb_decrementer
+VIEW struct.bd
+NO_GRAPHIC 58
+DESIGN tb_decrementer
+VIEW struct.bd
+GRAPHIC 703,0 61 0 
+DESIGN tb_decrementer
+VIEW struct.bd
+GRAPHIC 211,0 62 0 
+DESIGN tb_decrementer
+VIEW struct.bd
+NO_GRAPHIC 65
+DESIGN tb_decrementer
+VIEW struct.bd
+NO_GRAPHIC 67
+DESIGN tb_decrementer
+VIEW struct.bd
+GRAPHIC 703,0 69 0 
+DESIGN tb_decrementer
+VIEW struct.bd
+GRAPHIC 179,0 71 0 
+DESIGN tb_decrementer
+VIEW struct.bd
+GRAPHIC 187,0 72 0 
+DESIGN tb_decrementer
+VIEW struct.bd
+GRAPHIC 211,0 74 0 
+DESIGN tb_decrementer
+VIEW struct.bd
+GRAPHIC 187,0 76 0 
+DESIGN tb_decrementer
+VIEW struct.bd
+GRAPHIC 121,0 77 0 
+DESIGN tb_decrementer
+VIEW struct.bd
+GRAPHIC 179,0 78 0 
+DESIGN tb_decrementer
+VIEW struct.bd
+NO_GRAPHIC 81

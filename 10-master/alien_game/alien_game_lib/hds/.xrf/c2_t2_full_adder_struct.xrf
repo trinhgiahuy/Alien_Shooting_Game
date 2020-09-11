@@ -1,0 +1,78 @@
+DESIGN c2_t2_full_adder
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN c2_t2_full_adder
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN c2_t2_full_adder
+VIEW symbol.sb
+GRAPHIC 128,0 14 0 
+DESIGN c2_t2_full_adder
+VIEW symbol.sb
+GRAPHIC 168,0 15 0 
+DESIGN c2_t2_full_adder
+VIEW symbol.sb
+GRAPHIC 123,0 16 0 
+DESIGN c2_t2_full_adder
+VIEW symbol.sb
+GRAPHIC 133,0 17 0 
+DESIGN c2_t2_full_adder
+VIEW symbol.sb
+GRAPHIC 138,0 18 0 
+DESIGN c2_t2_full_adder
+VIEW symbol.sb
+GRAPHIC 1,0 21 0 
+DESIGN c2_t2_full_adder
+VIEW symbol.sb
+GRAPHIC 1,0 22 0 
+DESIGN c2_t2_full_adder
+VIEW struct.bd
+NO_GRAPHIC 25
+DESIGN c2_t2_full_adder
+VIEW struct.bd
+GRAPHIC 121,0 34 0 
+DESIGN c2_t2_full_adder
+VIEW struct.bd
+NO_GRAPHIC 37
+DESIGN c2_t2_full_adder
+VIEW struct.bd
+GRAPHIC 0,0 39 2 
+DESIGN c2_t2_full_adder
+VIEW struct.bd
+GRAPHIC 404,0 44 0 
+DESIGN c2_t2_full_adder
+VIEW struct.bd
+GRAPHIC 434,0 45 0 
+DESIGN c2_t2_full_adder
+VIEW struct.bd
+GRAPHIC 440,0 46 0 
+DESIGN c2_t2_full_adder
+VIEW struct.bd
+NO_GRAPHIC 47
+DESIGN c2_t2_full_adder
+VIEW struct.bd
+NO_GRAPHIC 48
+DESIGN c2_t2_full_adder
+VIEW struct.bd
+NO_GRAPHIC 49
+DESIGN c2_t2_full_adder
+VIEW struct.bd
+GRAPHIC 217,0 51 0 
+DESIGN c2_t2_full_adder
+VIEW struct.bd
+GRAPHIC 254,0 54 0 
+DESIGN c2_t2_full_adder
+VIEW struct.bd
+GRAPHIC 393,0 57 0 
+DESIGN c2_t2_full_adder
+VIEW struct.bd
+GRAPHIC 301,0 60 0 
+DESIGN c2_t2_full_adder
+VIEW struct.bd
+GRAPHIC 348,0 63 0 
+DESIGN c2_t2_full_adder
+VIEW struct.bd
+NO_GRAPHIC 66
+DESIGN c2_t2_full_adder
+VIEW struct.bd
+NO_GRAPHIC 69

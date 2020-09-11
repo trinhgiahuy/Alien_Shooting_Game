@@ -1,0 +1,15 @@
+**/work/
+*.lck
+*.cache.dat
+*.xpr
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.docx
+*.exe
+*.sh
+*.replaced
+*.bak
+*.vhg

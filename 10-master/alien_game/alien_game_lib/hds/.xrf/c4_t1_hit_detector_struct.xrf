@@ -1,0 +1,131 @@
+DESIGN c4_t1_hit_detector
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN c4_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN c4_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 132,0 14 0 
+DESIGN c4_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 137,0 15 0 
+DESIGN c4_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 142,0 16 0 
+DESIGN c4_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 122,0 17 0 
+DESIGN c4_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 127,0 18 0 
+DESIGN c4_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 147,0 19 0 
+DESIGN c4_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 152,0 20 0 
+DESIGN c4_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 1,0 23 0 
+DESIGN c4_t1_hit_detector
+VIEW symbol.sb
+GRAPHIC 1,0 24 0 
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+NO_GRAPHIC 27
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 153,0 36 0 
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+NO_GRAPHIC 39
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 0,0 42 2 
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 471,0 47 0 
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 480,0 48 0 
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 459,0 49 0 
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 465,0 50 0 
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 498,0 51 0 
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+NO_GRAPHIC 52
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+NO_GRAPHIC 59
+LIBRARY alien_game_lib
+DESIGN c4_t1_coordinate_compare
+VIEW struct
+GRAPHIC 403,0 61 0 
+DESIGN c4_t1_coordinate_compare
+VIEW symbol.sb
+GRAPHIC 114,0 63 0 
+DESIGN c4_t1_coordinate_compare
+VIEW symbol.sb
+GRAPHIC 119,0 64 0 
+DESIGN c4_t1_coordinate_compare
+VIEW symbol.sb
+GRAPHIC 124,0 65 0 
+LIBRARY alien_game_lib
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+NO_GRAPHIC 68
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 403,0 71 0 
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+NO_GRAPHIC 74
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 260,0 76 0 
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 308,0 87 0 
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 345,0 98 0 
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 382,0 101 0 
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+NO_GRAPHIC 104
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 403,0 106 0 
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 15,0 108 0 
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 57,0 109 0 
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 461,0 110 0 
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 425,0 112 0 
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 29,0 114 0 
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 71,0 115 0 
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+GRAPHIC 467,0 116 0 
+DESIGN c4_t1_hit_detector
+VIEW struct.bd
+NO_GRAPHIC 119

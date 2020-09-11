@@ -1,0 +1,72 @@
+DESIGN c2_t7_basic_alien_color
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN c2_t7_basic_alien_color
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN c2_t7_basic_alien_color
+VIEW symbol.sb
+GRAPHIC 121,0 14 0 
+DESIGN c2_t7_basic_alien_color
+VIEW symbol.sb
+GRAPHIC 116,0 15 0 
+DESIGN c2_t7_basic_alien_color
+VIEW symbol.sb
+GRAPHIC 126,0 16 0 
+DESIGN c2_t7_basic_alien_color
+VIEW symbol.sb
+GRAPHIC 131,0 17 0 
+DESIGN c2_t7_basic_alien_color
+VIEW symbol.sb
+GRAPHIC 1,0 20 0 
+DESIGN c2_t7_basic_alien_color
+VIEW symbol.sb
+GRAPHIC 1,0 21 0 
+DESIGN c2_t7_basic_alien_color
+VIEW struct.bd
+NO_GRAPHIC 24
+DESIGN c2_t7_basic_alien_color
+VIEW struct.bd
+GRAPHIC 105,0 33 0 
+DESIGN c2_t7_basic_alien_color
+VIEW struct.bd
+NO_GRAPHIC 36
+DESIGN c2_t7_basic_alien_color
+VIEW struct.bd
+GRAPHIC 0,0 38 2 
+DESIGN c2_t7_basic_alien_color
+VIEW struct.bd
+GRAPHIC 316,0 43 0 
+DESIGN c2_t7_basic_alien_color
+VIEW struct.bd
+GRAPHIC 322,0 44 0 
+DESIGN c2_t7_basic_alien_color
+VIEW struct.bd
+NO_GRAPHIC 45
+DESIGN c2_t7_basic_alien_color
+VIEW struct.bd
+GRAPHIC 363,0 47 0 
+DESIGN c2_t7_basic_alien_color
+VIEW struct.bd
+NO_GRAPHIC 52
+DESIGN c2_t7_basic_alien_color
+VIEW struct.bd
+NO_GRAPHIC 53
+DESIGN c2_t7_basic_alien_color
+VIEW struct.bd
+GRAPHIC 250,0 55 0 
+DESIGN c2_t7_basic_alien_color
+VIEW struct.bd
+GRAPHIC 201,0 67 0 
+DESIGN c2_t7_basic_alien_color
+VIEW struct.bd
+GRAPHIC 297,0 70 0 
+DESIGN c2_t7_basic_alien_color
+VIEW struct.bd
+NO_GRAPHIC 80
+DESIGN c2_t7_basic_alien_color
+VIEW struct.bd
+GRAPHIC 363,0 84 0 
+DESIGN c2_t7_basic_alien_color
+VIEW struct.bd
+NO_GRAPHIC 86
